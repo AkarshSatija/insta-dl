@@ -1,2 +1,2 @@
 # insta-dl
-Share URL with app and it will download image from instagram
+An android app with "shareWith" as an option. Share URL with app and it will download image from instagram
